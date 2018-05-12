@@ -1,0 +1,34 @@
+_repo: Beauties-of-Tennyson_23597
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schell, Frederic B.
+    alias: Schell, F. B. (Frederic B.)
+    gutenberg_agent_id: '25933'
+    url: http://www.gutenberg.org/2009/agents/25933
+covers:
+- cover_type: archival
+  image_path: 23597-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+description: ''
+gutenberg_issued: '2007-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+title: Beauties of Tennyson
+url: http://www.gutenberg.org/ebooks/23597
