@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2987
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23597#Beauties-of-Tennyson
 gutenberg_issued: '2007-11-23'
 gutenberg_type: Text
 identifiers:
